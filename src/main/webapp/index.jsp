@@ -56,7 +56,7 @@
                             <%
                                 }
                                     }catch(Exception e) {
-                                         out.print("Error"+ e);
+                                         out.print("Errores"+ e);
                                                             }
                             %>
                           
